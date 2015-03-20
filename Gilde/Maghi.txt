@@ -1,0 +1,37 @@
+<font color=red size=5><center><b><u>Maghi</u></b></center></font>
+
+<b><u>1 - Definizione</u></b>
+
+La corporazione raccoglie chiunque sia in grado di utilizare disinvoltamente l'energia della natura per proteggersi, attaccarre e svolgere compiti più generici.
+
+<b><u>2 - Scopo</u></b>
+
+Lo scopo della corporazione è quello di creare una rappresentanza della natura in città, oltre che quello di occuparsi dell'insegnamento delle arti arcane ed occulte ai cittadini di Khorakhan presso l'apposita accademia di magia: la Liber Aracane.
+
+<b><u>3 - Gerarchia</u></b>
+
+Grande Arcimago: Il membro più potente del gruppo, a lui spettano e competono tutte le decisioni della corporazione, per quanto riguarda l'aspetto politico e didattico, nonchè militare della società.
+
+<b><u>3a - Gerarchia in accademia</u></b>
+
+Rettore: A lui, in consiglio col Grande Arcimago, spettano le decisioni riguardanti l'insegamento delle arti arcane ai cittadini, dalla scelta dei maestri a quella degli argomenti da trattare, alla decisione sulla idoneità di un cittadino ad accedere a ruoli più alti della corporazione.
+
+Maestri: Un corpo di 4 delegati dal Rettore, diretti responsabili dell'insegnamento degli apprendisti, oltre che consiglieri del Rettore riguardo varie questioni, in particolare per la promozione degli apprendisti. Tra loro quattro viene scelto, mediante duello magico, il successore del Rettore alla morte di quest'ultimo.
+
+Maestri minori: Gruppo di maestri il cui compito è quello di istruire gli apprendisti e di riferire ai Maestri riguardo i loro progressi.
+
+Apprendisti: Tutti i cittadini che vogliono perseguire studi di magia, ad essi sarà poi proposto, in caso di eccellenza negli studi, l'accesso alla corporazione, mediante superamento di un esame di ammissione.
+
+<b><u>3b - Gerarchia politica</u></b>
+
+Consigliere: Il rappresentante della sezione politica nel Consiglio Dei Tre (assemblea che riunisce anche il Rettore e il Grande Arcimago), nonchè rappresentante, assieme al Grande Arcimago ed ai Consoli, del volere della corporazione in sede del cosniglio cittadino.
+
+Consoli: Dodici eletti, con mandato semestrale, il cui compito è rappresentare i membri dell'assemblea magica nel consiglio cittadino.
+
+Membri dell'assemblea magica: 160 membri, tra i quali vengono scelti i Consoli ed il Consigliere, per prendere decisioni riguardo la politica della città, da portare poi in Assemblea Generale.
+
+Maghi: Tutti coloro che vengono ammessi alla gilda pur non appartenendo ad un gruppo specifico, tra di essi vengono scelti i Membri dell'assemblea magica ed i Maestri minori.
+
+<b><u>4 - Regole fondamentali</u></b>
+
+E' fortemente richiesto il rispetto della gerarchia della corporazione, nonchè della città; quanti non si atterranno a tali norme saranno radiati dal gruppo e, nei casi più ecclatanti e gravi, puniti con pena che può arrivare alla morte e oltre.

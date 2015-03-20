@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>
+      Bentornato, per favore fatti riconoscere
+    </title>
+    <script language="JavaScript">
+      self.moveTo(0,0);
+      self.resizeTo(screen.availWidth,screen.availHeight)
+    </script>
+  </head>
+  <body link="blue" vlink="blue" alink="blue" background="sfondo.jpg" topmargin="200">
+    <table width=50% align=center border=1 bordercolor=000000 cellspacing=0 bgcolor=EACDA3 cellpadding=5>
+      <tr>
+        <td bgcolor=ffffff align=center>
+          <font face="Verdana" color=cc0000 style="letter-spacing: 7pt">
+            <b>
+              Khorakhan
+            </b>
+          </font>
+        </td>
+      </tr>
+      <form action="check_ingresso.php" method="POST">
+      <tr>
+        <td width=100% align=center border=0>
+          <font face="Verdana">
+            <br>
+            Nome PG :
+          </font>
+          <input type="text" name="khoraname">
+          <br>
+          <font face="Verdana">
+            Password :
+          </font>
+          <input type="password" name="khorapass">
+          <br>
+          <br>
+          <input type="submit" value="Entra!">
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

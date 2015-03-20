@@ -1,0 +1,59 @@
+<html>
+  <head>
+    <title>
+      Ricerca anagrafe
+    </title>
+  </head>
+  <body link=blue alink=blue vlink=blue background="sfondo.jpg">
+    <form action="anagrafe_bot.php?lect=search" method="POST">
+      <table width=60% align=center>
+        <tr>
+          <td width=50% align=right>
+            Nome:
+          </td>
+          <td width=50%>
+            <input type="text" name="nome">
+          </td>
+        </tr>
+        <tr>
+          <td align=right>
+            Carica:
+          </td>
+          <td>
+            <input type="text" name="carica">
+          </td>
+        </tr>
+        <tr>
+          <td align=right>
+            Razza:
+          </td>
+          <td>
+            <select name="razza">
+              <option>Qualsiasi</option>
+              <option>Umano</option>
+              <option>Elfo</option>
+              <option>Nano</option>
+              <option>Kender</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td align=right>
+            Sesso:
+          </td>
+          <td>
+            <select name="sesso" >
+              <option>Entrambi</option>
+              <option>F</option>
+              <option>M</option>
+            </select>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <center>
+        <input type=submit value="Cerca!">
+      </center>
+    </form>
+  </body>
+</html>
